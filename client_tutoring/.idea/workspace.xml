@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20816521-05e8-4a1b-968d-b2cb1c7cda64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/tutoring22/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/tutoring22/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutoring22/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/tutoring22/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutoring22/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/tutoring22/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutoring22/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/tutoring22/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutoring22/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tutoring22/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutoring22/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tutoring22/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutoring22/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tutoring22/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutoring22/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/tutoring22/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tutoring22" />
+  </component>
+  <component name="ProjectId" id="29CUW2Q9oTM14oEPsWVWHtQR5AQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Webprojekt22" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\client_tutoring\tutoring22\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\client_tutoring\tutoring22\src\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\client_tutoring\tutoring22\src\environments" />
+      <recent name="C:\client_tutoring\tutoring22\src\assets\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20816521-05e8-4a1b-968d-b2cb1c7cda64" name="Default Changelist" comment="" />
+      <created>1652616590190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652616590190</updated>
+      <workItem from="1652616591274" duration="74848000" />
+      <workItem from="1653122636136" duration="28404000" />
+      <workItem from="1653413540068" duration="1524000" />
+      <workItem from="1653550227045" duration="15148000" />
+      <workItem from="1653633746304" duration="39028000" />
+      <workItem from="1653807570521" duration="6340000" />
+      <workItem from="1653834504724" duration="57460000" />
+      <workItem from="1653989796814" duration="2016000" />
+      <workItem from="1653998262431" duration="1004000" />
+      <workItem from="1654077614571" duration="6000000" />
+      <workItem from="1654095330425" duration="602000" />
+      <workItem from="1654096612571" duration="179000" />
+      <workItem from="1654101911705" duration="3049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="670" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1653984017718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1653984017718" />
+    <state x="710" y="159" key="FileChooserDialogImpl" timestamp="1654102032135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="159" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1653041700647" />
+    <state x="2630" y="159" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1653828953106" />
+    <state x="710" y="159" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1654102032135" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1653138731979">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1653138731979" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1652710028104" />
+    <state x="2697" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1653762878962">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2697" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1653762878962" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1653675793991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1653675793991" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/tutoring22/src/app/tutoring-details/tutoring-details.component.ts</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/tutoring22/src/app/personal-space/personal-space.component.ts</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
